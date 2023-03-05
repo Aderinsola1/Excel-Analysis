@@ -1,4 +1,4 @@
-# ExcelFormula, Functions and data cleaning
+# Excel Formula, Functions and data cleaning
 Analysing random data with various excel Funtions and Formulas
 
 Data cleaning
